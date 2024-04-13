@@ -87,6 +87,13 @@ class _MyHomePageState extends State<MyHomePage> {
 
                   )
                   ),
+                  Text('amna bibi',style: TextStyle(
+                    color: Colors.black,
+                    fontSize: 10,
+                    fontWeight: FontWeight.w400,
+
+                  )
+                  ),
                   Image.asset("assets/image4/car.png",height: 30,width: 30,),
 
 
